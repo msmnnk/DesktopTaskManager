@@ -1,0 +1,1 @@
+create table tasks (name varchar(50) not null, time timestamp(0), status varchar(15) not null);
